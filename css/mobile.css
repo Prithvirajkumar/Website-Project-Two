@@ -1,0 +1,59 @@
+#what .items
+{
+    display: block;
+    padding: 1rem;
+}
+
+
+#navbar
+{
+    display: block;
+    text-align: center;
+}
+
+#navbar ul
+{
+    display: block;
+}
+#navbar ul li a 
+{
+    padding: 5px;
+}
+
+#navbar ul li a:hover
+{
+    color: #93cb52; 
+    background: #333333;
+}
+
+#navbar
+{
+    position: relative;
+    padding: 0.6rem;
+}
+
+#who
+{
+    display: block;
+}
+
+#who .who-img
+{
+    display: none;
+}
+
+#contact
+{
+    display: block;
+}
+
+#contact .map
+{
+    height: 200px;
+}
+
+#showcase .showcase-content
+{
+    top: 172px;
+    margin-top: -2rem;
+}
